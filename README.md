@@ -1,2 +1,1 @@
-# ITUM-VIS
-ITUM Vehicle Management System
+# spm_mini_project
